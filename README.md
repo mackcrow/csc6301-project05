@@ -1,5 +1,5 @@
 # CSC6301 Project05
-This repository contains the files associated with Project04
+This repository contains the files associated with Project05
 ## Project Description
 Implements a "maintenance task" to Project 04, replacing the use of LinkedList
 with Stack.
