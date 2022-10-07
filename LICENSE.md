@@ -1,0 +1,1 @@
+This project is schoolwork and not intended for wholesale reuse.
